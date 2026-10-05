@@ -4,5 +4,18 @@
   "createdAt": "2026-10-05T05:45:40.480Z",
   "filename": "1c14e11d-0036-4003-832f-2ad36e431a84.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "53219309-9bd0-4097-9031-c441e3d7a93a",
+      "role": "user",
+      "content": "Hazme un documento explicando toda la web que te pasó, la parte pública y la parte administrativa. Tiene que ser un documento completo técnico para presentar todas las funcionalidades y diseño. https://agestudioabierto.netlify.app/ El documento tiene que ser en pdf y agrega capturas de pantalla de cada sección que cuentes, se encuentra el proyecto en el repositorio correspondiente también de GitHub conectado Almabuddha",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-05T05:48:30.736Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
